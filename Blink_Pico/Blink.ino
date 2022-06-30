@@ -10,6 +10,7 @@
  *  
  *  Board: Raspberry Pi Pico
  *  IDE: Arduino IDE
+ *  Author: Andres Elias Valdez
  --------------------------------------------------------
 */
 
