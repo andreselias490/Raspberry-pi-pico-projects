@@ -1,1 +1,1 @@
-# Raspberry-pi-pico-projects
+# Raspberry Pi Pico Projects
