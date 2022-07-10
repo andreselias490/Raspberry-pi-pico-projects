@@ -11,6 +11,7 @@
  *  Board: Raspberry Pi Pico
  *  IDE: Arduino IDE
  *  Author: Andres Elias Valdez
+ *  SDK Raspberry Pi Pico: https://github.com/earlephilhower/arduino-pico
  --------------------------------------------------------
 */
 
